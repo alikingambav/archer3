@@ -295,7 +295,13 @@ function create_config( )
     "Dictionry",
     "giphy",
     "ZAC",
-    "links-warn(@alireza_PT).lua"
+    "links-warn(@alireza_PT).lua",
+    "help3",
+    "pesaram",
+    "supergroup(2)",
+    "lock_audio",
+    "lock_vidio",
+    "lock_photo"
     },
     sudo_users = {234169062},--Sudo users
     disabled_channels = {},
