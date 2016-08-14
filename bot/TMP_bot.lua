@@ -301,7 +301,8 @@ function create_config( )
     "supergroup(2)",
     "lock_audio",
     "lock_vidio",
-    "lock_photo"
+    "lock_photo",
+    "arz"
     },
     sudo_users = {234169062},--Sudo users
     disabled_channels = {},
